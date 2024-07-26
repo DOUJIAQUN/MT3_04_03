@@ -6,7 +6,7 @@
 #include <numbers>
 #include <imgui.h>
 
-const char kWindowTitle[] = "LE2C_18_トウカグン_カメラ";
+const char kWindowTitle[] = "LE2C_18_トウカグン";
 
 static const int kWindowWidth = 1280;
 static const int kWindowHeight = 720;
